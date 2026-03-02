@@ -1,4 +1,4 @@
-# 🔢 Challengers ALURA-Jogo do Número Secreto
+# Jogo do Número Secreto Projeto desenvolvido para praticar lógica de programação em Java.
 
 Um projeto simples e divertido feito em JavaScript, onde o jogador precisa adivinhar um número secreto entre 1 e 100. O jogo informa se o palpite está muito alto ou muito baixo até acertar o número.
 
@@ -20,5 +20,5 @@ Um projeto simples e divertido feito em JavaScript, onde o jogador precisa adivi
 
 ## 👨‍💻 Autor
 
-Feito com 💙 por **Alexandre**  
+Feito por **Alexandre**  
 [GitHub: @xandyxdev](https://github.com/xandyxdev)
