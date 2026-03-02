@@ -1,4 +1,4 @@
-# Jogo do Número Secreto Projeto desenvolvido para praticar lógica de programação em Java.
+# Jogo do Número Secreto Projeto desenvolvido para praticar lógica de programação em JavaScript.
 
 Um projeto simples e divertido feito em JavaScript, onde o jogador precisa adivinhar um número secreto entre 1 e 100. O jogo informa se o palpite está muito alto ou muito baixo até acertar o número.
 
